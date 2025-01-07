@@ -1,5 +1,7 @@
 # Countries
 
+### Countries, code, locale, language, currency, curency Simbol, phone code, timezones
+
 Ej: 
 ```
 {
